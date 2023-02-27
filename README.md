@@ -1,7 +1,7 @@
 ### Hi!
 Oi, meu nome é kelven e sou um programador Front-End Junior. Comecei minha carreira como programador no ensino médio, e sou apaixonado por programação desde então. Acredito que o trabalho em equipe é o caminho para o sucesso e sou muito dedicado ao trabalho
 
-- Formado em Informática  
+- Técnico em Informática  
 - Cursando Análise e desenvolvimento de sitemas
 
 

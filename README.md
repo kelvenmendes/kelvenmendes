@@ -5,7 +5,10 @@ Oi, meu nome é kelven e sou um programador Front-End Junior. Comecei minha carr
 - Cursando Engenharia de Software
 
 
-
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvenmendes&show_icons=true&theme=dark"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenmendes&layout=compact&theme=dark"/>
  
  
  ### 🧰 Tecnologies e Tools I use:

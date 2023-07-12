@@ -8,7 +8,7 @@ Oi, meu nome é kelven e sou um programador Front-End Junior. Comecei minha carr
 
  
  
- ### 🧰 Tecnologies e Tools I use:
+ ### 🧰 Tecnologies and Tools I use:
  
  <div> 
 <img align ="center" alt = "Kelven Mendes" height = "30" width= "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
